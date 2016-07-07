@@ -12,6 +12,7 @@
 		379C813A1D2DD28B0023E657 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 379C81381D2DD28B0023E657 /* Main.storyboard */; };
 		379C813C1D2DD28B0023E657 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 379C813B1D2DD28B0023E657 /* Assets.xcassets */; };
 		379C813F1D2DD28B0023E657 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 379C813D1D2DD28B0023E657 /* LaunchScreen.storyboard */; };
+		379C81471D2DD35A0023E657 /* Cartoon_Hands.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 379C81461D2DD35A0023E657 /* Cartoon_Hands.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		379C813B1D2DD28B0023E657 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		379C813E1D2DD28B0023E657 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		379C81401D2DD28B0023E657 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		379C81461D2DD35A0023E657 /* Cartoon_Hands.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cartoon_Hands.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				379C81341D2DD28B0023E657 /* AppDelegate.swift */,
 				379C81361D2DD28B0023E657 /* ViewController.swift */,
 				379C81381D2DD28B0023E657 /* Main.storyboard */,
+				379C81461D2DD35A0023E657 /* Cartoon_Hands.jpg */,
 				379C813B1D2DD28B0023E657 /* Assets.xcassets */,
 				379C813D1D2DD28B0023E657 /* LaunchScreen.storyboard */,
 				379C81401D2DD28B0023E657 /* Info.plist */,
@@ -126,6 +129,7 @@
 				379C813F1D2DD28B0023E657 /* LaunchScreen.storyboard in Resources */,
 				379C813C1D2DD28B0023E657 /* Assets.xcassets in Resources */,
 				379C813A1D2DD28B0023E657 /* Main.storyboard in Resources */,
+				379C81471D2DD35A0023E657 /* Cartoon_Hands.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
